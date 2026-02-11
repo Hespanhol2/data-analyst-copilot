@@ -42,8 +42,6 @@ Exportação de dados filtrados em CSV
 
 Integração com Banco em Nuvem
 
-Conexão segura via SSL
-
 Uso de variáveis de ambiente
 
 Query dinâmica
