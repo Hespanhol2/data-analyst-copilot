@@ -3,6 +3,7 @@ Data Analyst Copilot
 Projeto de análise de dados com integração a banco em nuvem (Supabase), dashboard interativo em Streamlit e arquitetura preparada para geração automática de consultas SQL via LLM.
 
 🎯 Objetivo
+---------------------
 
 Construir uma aplicação completa de análise de vendas que:
 
@@ -19,6 +20,8 @@ Está preparada para receber perguntas em linguagem natural (AI-ready)
 O projeto simula um cenário real de análise comercial.
 
 📊 Funcionalidades
+---------------------
+
 Dashboard Interativo
 
 Filtro por vendedor
