@@ -15,7 +15,7 @@ Realiza filtros dinâmicos por vendedor e período
 
 Gera métricas agregadas automaticamente
 
-Está preparada para receber perguntas em linguagem natural (AI-ready)
+Está preparada para receber perguntas em linguagem natural (IA-ready)
 
 O projeto simula um cenário real de análise comercial.
 
