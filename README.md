@@ -18,20 +18,40 @@ Está preparada para receber perguntas em linguagem natural (AI-ready)
 
 O projeto simula um cenário real de análise comercial.
 
-Stack Tecnológica
+📊 Funcionalidades
+Dashboard Interativo
 
-Python 3.12
+Filtro por vendedor
 
-Supabase (PostgreSQL Cloud)
+Filtro por intervalo de datas
 
-SQLAlchemy
+Métricas:
 
-Pandas
+Total de vendas
 
-Plotly
+Ticket médio
 
-Streamlit
+Número de vendas
 
-LangChain (estrutura para AI)
+Gráfico de vendas ao longo do tempo
 
-OpenAI API (integração pronta)
+Exportação de dados filtrados em CSV
+
+Integração com Banco em Nuvem
+
+Conexão segura via SSL
+
+Uso de variáveis de ambiente
+
+Query dinâmica
+
+IA-Ready
+
+Estrutura preparada para:
+
+Receber perguntas em linguagem natural
+
+Gerar SQL automaticamente via LLM
+
+Executar consultas inteligentes no banco
+
