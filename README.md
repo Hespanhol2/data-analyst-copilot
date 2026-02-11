@@ -1,5 +1,5 @@
---Data Analyst Copilot
-
+Data Analyst Copilot
+---------------------
 Projeto de análise de dados com integração a banco em nuvem (Supabase), dashboard interativo em Streamlit e arquitetura preparada para geração automática de consultas SQL via LLM.
 
 🎯 Objetivo
